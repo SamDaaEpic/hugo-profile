@@ -270,6 +270,17 @@ params:
         links:
           - icon: fab fa-github
             url: https://github.com/SamDaaEpic/Sam-C-Projects
+      
+      - title: My Awesome Wm Rice made in Lua!
+        content: My Awesome Window Manager Rice i created myself in lua.
+        image: /images/projects/desktop.png
+        # badges:
+        #   - "Hugo"
+        #   - "Bootstrap"
+        #   - "Javascript"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/SamDaaEpic/dotfiles
 
   #Contact
   contact:
