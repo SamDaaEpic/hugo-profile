@@ -272,7 +272,7 @@ params:
             url: https://github.com/SamDaaEpic/Sam-C-Projects
       
       - title: My Awesome Wm Rice made in Lua!
-        content: My Awesome Window Manager Rice i created myself in lua.
+        content: My Awesome Window Manager Rice i created myself in lua. Awesome Window Manager is a highly customizable window manager for powerusers.
         image: /images/projects/desktop.png
         # badges:
         #   - "Hugo"
