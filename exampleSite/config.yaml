@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://samdaaepic.netlify.app"
 languageCode: "en-us"
 title: "About Sam"
 theme: hugo-profile
@@ -111,6 +111,8 @@ params:
           url: "https://www.reddit.com/user/SamDaaEpic"
         - icon: fab fa-twitter
           url: "https://twitter.com/SamDaaEpic"
+        - icon: fab fa-discord
+          url: "https://discord.com/users/828945469416669195"
 
   # About
   about:
@@ -286,7 +288,7 @@ params:
   contact:
     enable: true
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: gurusabarisha@gmail.com
+    email: SamDaaEpic@gmail.com
     btnName: Mail me
 
   footer:
