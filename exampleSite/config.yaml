@@ -45,8 +45,8 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
-  description: Text about my cool site
+  title: "About Sam"
+  description: My About Me Page
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
