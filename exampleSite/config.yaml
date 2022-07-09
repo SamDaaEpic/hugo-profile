@@ -83,9 +83,9 @@ params:
   #   brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
   #   brandName: "Profile" # Brand name for the brand | default is the title variable
 
-  #   menus:
+     menus:
   #     disableAbout: true
-  #     disableExperience: true
+       disableExperience: true
   #     disableEducation: true
   #     disableProjects: true
   #     disableAchievements: true
