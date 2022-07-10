@@ -291,8 +291,7 @@ params:
   footer:
     # recentPosts: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      github: https://github.com/SamDaaEpic
+      twitter: https://twitter.com/SamDaaEpic
+      reddit: https://reddit.com/user/SamDaaEpic
+      discord: https://discord.com/users/828945469416669195
