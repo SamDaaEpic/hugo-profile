@@ -1,6 +1,6 @@
 ---
 title: "My Linux Journey"
-date: 2021-04-03T23:29:21+05:30
+date: 2022-07-10T23:29:21+05:30
 draft: false
 github_link: "https://github.com/gurusabarish/hugo-profile"
 author: "Gurusabarish"
@@ -8,7 +8,7 @@ tags:
   - Markdown syntax
   - Sample
   - example
-image: /images/post.jpg
+image: /images/linux.jpg
 description: ""
 toc: 
 ---
@@ -16,7 +16,7 @@ toc:
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 <!--more-->
 
-## Paragraph
+## When I First Got Introduced To Linux
 
 Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
 
